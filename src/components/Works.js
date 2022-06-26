@@ -1,7 +1,6 @@
 import React from 'react';
 import './Works.css';
 import work1 from './images/work1.png';
-// import work2 from './images/work2.png';
 import react1 from './images/react1.png';
 import react2 from './images/react2.png';
 import react3 from './images/react3.png';
@@ -22,6 +21,7 @@ const Works = () => {
 						href="https://cerulean-peony-051d90.netlify.app"
 						className="btn btn-primary mx-3 mb-3"
 						target="_blank"
+						rel="noreferrer"
 					>
 						Go to the Site
 					</a>
@@ -37,6 +37,7 @@ const Works = () => {
 						className="btn btn-primary mx-3 mb-3"
 						href="https://62b7a3066d2aa156320cb3e2--inspiring-wisp-8ae223.netlify.app"
 						target="_blank"
+						rel="noreferrer"
 					>
 						Go to the Site
 					</a>
@@ -52,6 +53,7 @@ const Works = () => {
 						className="btn btn-primary mx-3 mb-3"
 						href="https://elegant-pastelito-3b3977.netlify.app"
 						target="_blank"
+						rel="noreferrer"
 					>
 						Go to the Site
 					</a>
@@ -67,6 +69,7 @@ const Works = () => {
 						className="btn btn-primary mx-3 mb-3"
 						href="https://capable-melba-080f98.netlify.app"
 						target="_blank"
+						rel="noreferrer"
 					>
 						Go to the Site
 					</a>
