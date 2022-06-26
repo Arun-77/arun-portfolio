@@ -30,14 +30,18 @@ const Header = () => {
 				</ul>
 				<div>
 					<button className="btn btn-info mx-3">
-						<a href="www.linkedin.com/in/arun-m-790007228" target="_blank">
+						<a href="https://www.linkedin.com/in/arun-m-790007228">
 							<BsLinkedin style={{ margin: '0 4px 4px 0' }} />
 							LinkedIn
 						</a>
 					</button>
 
 					<button className="btn btn-info second">
-						<a href="https://github.com/Arun-77" target="_blank">
+						<a
+							href="https://github.com/Arun-77"
+							target="_blank"
+							rel="noreferrer"
+						>
 							<BsGithub style={{ margin: '0 4px 4px 0' }} />
 							Github
 						</a>
